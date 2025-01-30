@@ -83,4 +83,4 @@ The Conv3D model achieved the best results, with a validation accuracy of 83% an
 - **CNN-RNN Hybrid Models**: Useful for sequential data that requires both spatial and temporal analysis.
 
 ## Contact
-For any questions or further information, please contact withawasthi@gmail.com.
+For any questions or further information, please contact debargha.ganguly@gmail.com.
